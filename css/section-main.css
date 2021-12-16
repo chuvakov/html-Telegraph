@@ -1,0 +1,17 @@
+.section-main {
+    padding-right: 45px;
+    display: flex; 
+}
+
+.section-main__title {
+    margin-top: 113px;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+.section-main__img {
+    margin-left: 80px;
+    height: 604px;
+    width: 655px;
+    margin-bottom: 51px;
+}

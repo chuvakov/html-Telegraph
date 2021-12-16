@@ -1,0 +1,21 @@
+.section {
+    padding: 0px 150px;
+}
+
+.section__title {
+    font-weight: 600;
+}
+
+.section__content {
+    width: 552px;
+}
+
+.section__text {
+    font-size: 18px;
+    font-weight: lighter;
+    width: 537px;
+    margin: 0px;
+    margin-top: 18px;
+    margin-bottom: 50px;
+}
+

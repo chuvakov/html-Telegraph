@@ -1,0 +1,25 @@
+.section-possibilities {
+    display: flex;
+}
+
+.possibilities__content {
+    padding-top: 162px;
+    max-width: 466px;    
+}
+
+.possibilities__title {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 30px;    
+}
+
+.possibilities__text {
+    font-size: 18px;
+    font-weight: lighter;    
+}
+
+.possibilities__br {
+    margin: 10px 0;
+}
+
+

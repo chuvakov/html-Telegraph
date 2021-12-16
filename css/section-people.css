@@ -1,0 +1,28 @@
+.section-people{
+    margin-top: 52px;
+    display: flex;
+}
+
+.people__img{
+    margin-right: 50px;
+    width: 542px;
+    height: 699px;
+}
+
+.people__content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 466px;
+}
+
+.people__title{
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.people__text{
+    font-size: 18px;
+    font-weight: lighter;
+}

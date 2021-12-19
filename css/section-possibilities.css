@@ -22,4 +22,21 @@
     margin: 10px 0;
 }
 
+@media (max-width:768px) {
+    .section-possibilities {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .possibilities__content {
+        padding-top: 80px;
+        max-width: 700px;
+    }
+
+    .possibilities__text {
+        font-size: 24px;
+    }
+}
+
 

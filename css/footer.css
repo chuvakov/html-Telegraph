@@ -1,0 +1,40 @@
+.footer {
+    padding: 80px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__rights {
+font-size: 18px;
+font-weight: 500px;
+}
+
+.socials {
+    display: flex;
+    list-style: none;    
+}
+
+.socials__item {
+    font-size: 16px;
+    font-weight: 500px;
+    cursor: pointer;
+}
+
+.socials__item:hover {
+    text-decoration: underline;
+}
+
+.socials__item + .socials__item {
+    margin-left: 25px;    
+}
+
+@media (max-width:768px) {
+    .footer {
+        padding: 80px 72px;
+        width: 100%;
+    }
+
+    .socials {
+        margin: 0px;
+    }
+}

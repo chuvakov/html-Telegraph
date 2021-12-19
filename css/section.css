@@ -19,3 +19,14 @@
     margin-bottom: 50px;
 }
 
+@media (max-width:768px) {
+    .section {
+        padding: 0px 72px;
+    }
+
+    .section__text {
+        font-size: 24px;
+        width: 735px;
+    }
+}
+

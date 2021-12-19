@@ -26,3 +26,20 @@
     font-size: 18px;
     font-weight: lighter;
 }
+
+@media (max-width:768px) {
+    .section-people {  
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .people__content{
+        width: 700px;
+        margin-top: 70px;        
+    }
+
+    .people__text{
+        font-size: 24px;
+    }
+}
